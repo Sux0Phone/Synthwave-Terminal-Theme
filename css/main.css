@@ -135,7 +135,7 @@ body *, .userPopout-3XzG_A * {
 	height: 100%;
 	z-index: -1;
 	pointer-events: none;
-	opacity: 1.9;
+	opacity: 5.9;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: var(--user-popout-position) center;
