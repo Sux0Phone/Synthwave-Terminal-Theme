@@ -139,7 +139,7 @@ body *, .userPopout-3XzG_A * {
 	background-repeat: no-repeat;
 	background-position: var(--user-popout-position) center;
 	background-image: var(--user-background);
-	-webkit-mask-image: linear-gradient(#000, transparent);
+	-webkit-mask-image: linear-gradient(#000, #34294f4c);
 }
 
 .userPopout-3XzG_A  .header-2BwW8b,
