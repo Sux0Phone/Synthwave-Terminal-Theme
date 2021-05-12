@@ -240,7 +240,7 @@ body *, .userPopout-3XzG_A * {
 }
 
 .theme-dark .lookLink-9FtZy-.colorPrimary-3b3xI6:hover > div {
-  background-image: linear-gradient(0deg,transparent,transparent 1px,var(--highlight) 0,var(--highlight) 2px,transparent 0) !important;
+  background-image: linear-gradient(0deg,transparent,transparent 1px,var(--highlight) 0,var(--highlight) 2px,transparent 1) !important;
 }
 
 /* --== Style home button ==-- */
