@@ -1,2 +1,3 @@
 # Synthwave-Teminal-Theme
-Theme for BetterDiscord
+
+description will be later
