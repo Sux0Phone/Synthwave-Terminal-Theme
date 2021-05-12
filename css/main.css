@@ -166,7 +166,7 @@ body *, .userPopout-3XzG_A * {
   opacity: 5.5;
   pointer-events: none;
   background: var(--user-background) center/cover no-repeat;
-  -webkit-mask: linear-gradient(black, transparent 80%);
+  -webkit-mask: linear-gradient(black, transparent 100%);
 }
 
 .headerInfo-30uryT,
