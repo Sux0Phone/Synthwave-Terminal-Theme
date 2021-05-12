@@ -1,3 +1,3 @@
-# Synthwave-Teminal-Theme
+# Synthwave-Terminal-Theme
 
 description will be later
