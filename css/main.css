@@ -3,7 +3,7 @@
 
 :root, .theme-light {
   --rgb-highlight: 4, 217, 255;
-  --highlight: var(--text-color);
+  --highlight: #36f9f6;
   --background: #2b213a;
   --text-color: #d12a95;
   --close-button: var(--dnd-color) !important;
