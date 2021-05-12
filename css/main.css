@@ -45,8 +45,8 @@
   --header-secondary: var(--text-color);
   --channels-default:var(--text-color);
   --interactive-normal: var(--text-color);
-  --channeltextarea-background: var(--background);
-  --textbox-markdown-syntax: var(--background);
+  --channeltextarea-background: #171520;
+  --textbox-markdown-syntax: #171520;
 }
 
 /* --== Change font ==-- */
