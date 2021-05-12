@@ -1,0 +1,18 @@
+/**
+ * @name Synthwave Terminal Theme
+ * @author SuxOPhone 🎷#2315
+ * @version 1.0.0
+ * @source https://github.com/Sux0Phone/Synthwave-Terminal-Theme
+ * @website https://github.com/Sux0Phone/Synthwave-Terminal-Theme
+ * @donate https://qiwi.com/n/SHATC601
+ * @description A theme inspired by Fallout 4's terminals and Synthwave '84 theme for VSCode. Based on Fallout 4 Terminal theme by Bates#7075.
+ * @authorId 409739356065234955
+*/
+
+@import url('https://sux0phone.github.io/Synthwave-Terminal-Theme/css/main.css');
+
+:root {
+  --background: #2b213a !important;
+  --text-color: #d12a95 !important;
+  --highlight: #36f9f6 !important;
+}
