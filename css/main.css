@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
 
 :root, .theme-light {
@@ -51,7 +51,7 @@
 
 /* --== Change font ==-- */
 html, body {
-  font-family: 'Raleway', monospace;
+  font-family: 'Montserrat', monospace;
 }
 
 /* --== Add CRT effect ==-- */
